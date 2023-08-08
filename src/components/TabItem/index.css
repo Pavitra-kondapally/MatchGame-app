@@ -1,0 +1,16 @@
+.active-tab {
+  color: #fec653;
+  text-decoration: underline;
+  background-color: transparent;
+  border-width: 0px;
+  font-size: 25px;
+}
+.inactive-tab {
+  color: #ffffff;
+  background-color: transparent;
+  border-width: 0px;
+  font-size: 25px;
+}
+.tab-class {
+  display: inline-block;
+}

@@ -1,0 +1,8 @@
+.thumbnail-image {
+  height: 100px;
+  width: 100px;
+}
+.thumbnail-item {
+  display: inline-block;
+  margin: 10px;
+}
